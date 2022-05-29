@@ -1,0 +1,6 @@
+Nama : dani
+Umur: 19
+Alamat: jakarta
+Nama: wonu
+Umur: 25
+Alamat: jogja
